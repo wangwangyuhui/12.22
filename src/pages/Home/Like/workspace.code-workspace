@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\gshop-client_final\\src\\pages\\Home"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\gshop-client_final"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "VueSource",
+		"compile-hero.disable-compile-files-on-did-save-code": false
+	}
+}
